@@ -1,0 +1,3 @@
+source: https://www.govinfo.gov/bulkdata/ECFR/title-26/ECFR-title26.xml
+AMDDATE in source XML: Dec. 18, 2025(fm)
+parts: 89; section files: 6160; section-less parts written whole: 20
